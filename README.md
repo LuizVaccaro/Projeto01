@@ -4,7 +4,7 @@
 
 ## Projeto 01 Sigmoidal - Análise de dados do Airbnb das ilhas do Hawaii
 
-Neste projeto foi feita a análise das ilhas do Hawaii, com os dados fornecidos pelo Airbnb com base no banco de dados, foi analisado e compreendido algumas características locais. Veremos neste projeto como difere os preços entre as ilhas, os tipos de propriedades disponíveis, quantidade mínima de noites para aluguel, qual ilha tem a maior concentração de locações, média de preços, entre outras.
+Neste projeto foi feita a análise das ilhas do Hawaii, com os dados fornecidos pelo Airbnb com base no seu banco de dados, foi analisado e compreendido algumas características locais. Veremos neste projeto como difere os preços entre as ilhas, os tipos de propriedades disponíveis, quantidade mínima de noites para aluguel, qual ilha tem a maior concentração de locações, média de preços, entre outras análises.
 
 [Link para o projeto completo](https://colab.research.google.com/drive/17NmsL-V_pgCcKOPBYayOYG9yKqidQQpv?usp=sharing)
 
