@@ -10,7 +10,7 @@ Neste projeto foi feita a análise das ilhas do Hawaii, com os dados fornecidos 
 
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/luiz-felipe-cougo-vaccaro-9b5790184/)
-* [LinkedIn] - Artigo Linkedin (https://www.linkedin.com/pulse/an%25C3%25A1lise-de-dados-do-airbnb-das-ilhas-hawaii-luiz-felipe-cougo-vaccaro)
+* [Artigo LinkedIn](https://www.linkedin.com/pulse/an%25C3%25A1lise-de-dados-do-airbnb-das-ilhas-hawaii-luiz-felipe-cougo-vaccaro)
 
 
 
