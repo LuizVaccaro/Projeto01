@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1446776858070-70c3d5ed6758?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://github.com/LuizVaccaro/Projeto01/blob/main/Vamos%20Conhecer%20Sobre%20o%20Hawaii%20(1).png?raw=true" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 ## Projeto 01 Sigmoidal - Análise de dados do Airbnb das ilhas do Hawaii
